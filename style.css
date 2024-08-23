@@ -22,7 +22,10 @@
     background-color:honeydew;
     border: none;
     border-radius: 5px;
+    box-shadow: 5px 2px 3px black;
+    
 }
+
 .nav-logo{
     display: flex;
     align-items: center;
