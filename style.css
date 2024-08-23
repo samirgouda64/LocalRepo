@@ -7,13 +7,21 @@
 }
 .nav{
     display: flex;
+    height: 100%;
     width: 50%;
     justify-content: space-evenly;
+    align-items: center;
+}
+.nav-sign{
+    width: 20%;
 }
 .nav-sign button{
     height: 30px;
     width: 80px;
     margin-left:8px;
+    background-color:honeydew;
+    border: none;
+    border-radius: 5px;
 }
 .nav-logo{
     display: flex;
